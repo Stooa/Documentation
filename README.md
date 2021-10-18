@@ -1,6 +1,4 @@
-# Stooa
-
-[⚡️ https://www.stooa.com](https://www.stooa.com)
+# [Stooa](https://www.stooa.com)
 
 ## The online fishbowl tool
 

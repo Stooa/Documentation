@@ -4,7 +4,8 @@ Stooa is the Open Source unconference project, and we are really happy to reciev
 
 ## Available contributions
 
-* [Bug Report](how-to-contribute.md#bugs)
+* [Bug Report](how-to-contribute.md#bug-report)
+* [Bug Fixing](how-to-contribute.md#bug-fixing)
 * [Documentation](how-to-contribute.md#documentation)
 * [Translations](how-to-contribute.md#translations)
 * \[New features]

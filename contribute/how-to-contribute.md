@@ -8,8 +8,8 @@ Stooa is the Open Source unconference project, and we are really happy to reciev
 * [Bug Fixing](how-to-contribute.md#bug-fixing)
 * [Documentation](how-to-contribute.md#documentation)
 * [Translations](how-to-contribute.md#translations)
-* \[New features]
-* \[Third party integrations]
+* [New features](how-to-contribute.md#new-features)
+* [Third party integrations](how-to-contribute.md#third-party)
 
 ### [Bug Report](how-to-contribute.md#bug-report)
 
@@ -34,3 +34,13 @@ To fix them just create a PR linking the issue, [you can do it this way](how-to-
 If you find some errors, or want to improve documentation you can do it in [this repository](https://github.com/Stooa/Documentation) by forking it and creating a PR.
 
 If you've never done this, here is a step by step guide.
+
+### [New Features](how-to-contribute.md#new-features)
+
+To ask for new features, you will have to open a new issue using the `[New Feature]` template and answer the questions in it. 
+
+<!-- TODO:Good New Feature requests example -->
+
+### [Third party Integrations](how-to-contribute.md#third-party)
+
+To create a third party integration, open a new issue on github and team will contact you ASAP.

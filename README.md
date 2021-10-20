@@ -22,7 +22,6 @@ Every code patch accepted in Stooa codebase is licensed under [MPL 2.0][license]
 
 Please [read carefully our license][license] and ask us if you have any questions as well as the [Contribution policy][contribute].
 
-
 [license]: LICENSE
 [contribute]: CONTRIBUTING.md
 [conduct]: CODE_OF_CONDUCT.md

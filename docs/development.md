@@ -36,13 +36,11 @@ There are several endpoints configured for Stooa:
 
 ## Structure
 
-This repository contains the Stooa code for the backend and frontend. There is a `.github` and `.docker` directory, mainly for local config reasons.
-
-There are 2 main directories:
+This repository contains the Stooa code for:
 
 ### Backend
 
-The `/backend` folder contains all the backend code. We are mainly using `Symfony` with `Api Platform` (for the API generation) and `Sonata` for the administration panel.
+The `/backend` folder contains all the backend code. We are mainly using [Symfony][symfony] with [Api Platform][api-platform] (for the API generation) and [Sonata][sonata] for the administration panel.
 
 If you change `backend` code, there are several checks that the code need to pass:
 * `phpstan`
@@ -50,12 +48,10 @@ If you change `backend` code, there are several checks that the code need to pas
 * `php-cs-fixer`
 * `phpunit`
 
-Contains the `dockerfile` that is used to create the local
-
 ### Frontend
 
-The `/frontend` folder contains all the frontend code. We are mainly using `React` with `Next.js` (Framework) and
-`Apollo` for the GraphQL calls to the backend.
+The `/frontend` folder contains all the frontend code. We are mainly using [React][react] with [Next.js][next] and
+[Apollo][apollo] for the GraphQL calls to the backend.
 
 If you change `frontend` code, there are several checks that the code need to pass:
 * `estlint`
@@ -95,3 +91,10 @@ docker rm temp-container-name
 ```
 
 NOTE: The first command might give you some errors. However, this will not stop this from working.
+
+[symfony]: https://github.com/symfony/symfony
+[api-platform]: https://github.com/api-platform/api-platform
+[sonata]: https://github.com/sonata-project/SonataAdminBundle
+[react]: https://github.com/facebook/react
+[next]: https://github.com/vercel/next.js/
+[apollo]: https://github.com/apollographql

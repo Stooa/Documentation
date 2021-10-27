@@ -1,4 +1,4 @@
-# Setup Local Environment
+# Setup development environment
 
 ## Requirements
 

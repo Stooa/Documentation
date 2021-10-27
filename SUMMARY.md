@@ -8,4 +8,4 @@
 [home]: README.md
 [conduct]: CODE_OF_CONDUCT.md
 [contribute]: CONTRIBUTING.md
-[local]: docs/development.md
+[development]: docs/development.md

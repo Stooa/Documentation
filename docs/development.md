@@ -55,7 +55,10 @@ The `/frontend` folder contains all the frontend code. We are mainly using [Reac
 
 If you change `frontend` code, there are several checks that the code need to pass:
 * `estlint`
+* `prettier`
+* `next build`
 * `jest tests`
+
 
 ## How to update Jitsi Meet Library manually ?
 

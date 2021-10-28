@@ -23,6 +23,13 @@ If you found a bug, please report it using the [Bug Report template][issue_bug] 
 
 If you find a security bug, that you would prefer to discuss in private, you can first mail us at [support@stooa.com](mailto:support@stooa.com).
 
+### 👁️ Before contributing!
+To contribute you should fork the project, make your changes locally and then creating a Pull Request. If you don't know this process, [check this quick tutorial](https://jarv.is/notes/how-to-pull-request-fork-github/). (Don't worry, everyone has been there at some point 😊 )
+
+If it is **the first time** you contribute to Stooa you will be asked to sign the [DCO License](https://github.com/Stooa/Stooa/blob/main/DCOLICENSE), which is basically that you ensure that code is yours, that you are aware of the license we are using, etc...
+
+To sign this you will only have to reply to your own PR to our lovely bot that you accept the License. Cool and lovely bots 🤖 .
+
 ### [Bug Fixing](CONTRIBUTING.md#bug-fixing)
 
 You can explore our [Github's issues][issues] to find bugs. They are classified and explained by the community or the core team.

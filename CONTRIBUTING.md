@@ -9,6 +9,13 @@ Stooa is the Open Source unconference project, and we are really happy to reciev
 * [New features](CONTRIBUTING.md#new-features)
 * [Third party integrations](CONTRIBUTING.md#third-party)
 
+### 👁️ Before contributing!
+To contribute you should fork the project, make your changes locally and then creating a Pull Request. If you don't know this process, [check this quick tutorial](https://jarv.is/notes/how-to-pull-request-fork-github/). (Don't worry, everyone has been there at some point 😊 )
+
+If it is **the first time** you contribute to Stooa you will be asked to sign the [DCO License](https://github.com/Stooa/Stooa/blob/main/DCOLICENSE), which is basically that you ensure that code is yours, that you are aware of the license we are using, etc...
+
+To sign this you will only have to reply to your own PR to our lovely bot that you accept the License. Cool and lovely bots 🤖 .
+
 ### [Bug Report](CONTRIBUTING.md#bug-report)
 
 We use [Github issues][issues] to report new bugs either internals or externals, this way we ensure the issues having a linked Pull Requests and visibility near the code. Before filing a new task, try to make sure your problem doesn't already exist.

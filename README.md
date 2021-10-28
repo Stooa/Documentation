@@ -50,7 +50,6 @@ Please [read carefully our license][license] and ask us if you have any question
 [issues]: https://github.com/Stooa/Stooa/issues
 [discussions]: https://github.com/Stooa/Stooa/discussions
 [roadmap]: https://github.com/Stooa/Stooa/projects/1
-[documentation]: https://github.com/Stooa/Documentation
 [how_to_fork]: https://help.github.com/articles/fork-a-repo/
 [how_to_clone]: https://help.github.com/articles/cloning-a-repository/
 [twitter]: https://twitter.com/wearestooa

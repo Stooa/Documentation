@@ -47,7 +47,7 @@ Please [read carefully our license][license] and ask us if you have any question
 [license]: LICENSE
 [contribute]: CONTRIBUTING.md
 [conduct]: CODE_OF_CONDUCT.md
-[issues]: https://github.com/Runroom/Stooa/issues
+[issues]: https://github.com/Stooa/Stooa/issues
 [discussions]: https://github.com/Stooa/Stooa/discussions
 [roadmap]: https://github.com/Stooa/Stooa/projects/1
 [documentation]: https://github.com/Stooa/Documentation

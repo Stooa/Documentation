@@ -2,6 +2,10 @@
 
 Stooa is the Open Source unconference project, and we are really happy to recieve contributions 🎉. There are many different ways to contribute to Stooa’s development, just find the one that best fits with your skills or concerns.
 
+To contribute you should fork the project, make your changes locally and then creating a pull request. If you don't know how to do this process properly don't worry, check this quick tutorials about [forking](how_to_fork) and [pull requests](how_to_pr). (Everyone has been there at some point 😊 )
+
+If it is **the first time** you contribute to Stooa you will be asked to sign the [DCO License](CONTRIBUTING.md#dco-license), which is basically that you ensure that code is yours, that you are aware of the license we are using, etc...
+
 ## Available contributions
 
 * [Bug Report](CONTRIBUTING.md#bug-report)
@@ -23,13 +27,6 @@ If you found a bug, please report it using the [Bug Report template][issue_bug] 
 
 If you find a security bug, that you would prefer to discuss in private, you can first mail us at [support@stooa.com](mailto:support@stooa.com).
 
-### 👁️ Before contributing!
-To contribute you should fork the project, make your changes locally and then creating a Pull Request. If you don't know this process, [check this quick tutorial](https://jarv.is/notes/how-to-pull-request-fork-github/). (Don't worry, everyone has been there at some point 😊 )
-
-If it is **the first time** you contribute to Stooa you will be asked to sign the [DCO License](https://github.com/Stooa/Stooa/blob/main/DCOLICENSE), which is basically that you ensure that code is yours, that you are aware of the license we are using, etc...
-
-To sign this you will only have to reply to your own PR to our lovely bot that you accept the License. Cool and lovely bots 🤖 .
-
 ### [Bug Fixing](CONTRIBUTING.md#bug-fixing)
 
 You can explore our [Github's issues][issues] to find bugs. They are classified and explained by the community or the core team.
@@ -50,7 +47,12 @@ We are eager to get your help translating Stooa. You just need to access our tea
 
 Localization Bugs: Stooa use Weblate to manage the i18n files so don’t submit a pull request to those files. To fix a translation, just access our team of translators, set up an account in the [Stooa Weblate project][weblate] and start contributing. You also might want to take a look at the guide for [Translating using Weblate](https://docs.weblate.org/en/latest/user/translating.html).
 
-[issues]: https://github.com/Stooa/Stooa/issues
+## [DCO License](CONTRIBUTING.md#new-features)
+
+By submitting code you are agree with the [DCO license](dco_license).
+To sign it you will only have to reply to your own PR to our lovely bot that you accept the License. Cool and lovely bots 🤖 .
+
+[issues]: https://github.com/Runroom/Stooa/issues
 [issue_bug]: https://github.com/Stooa/Stooa/issues/new?assignees=&labels=bug%2Ctriage&template=BUG-REPORT.yml&title=%5BBug%5D%3A+
 [issue_feature]: https://github.com/Stooa/Stooa/issues/new?assignees=&labels=feature-request&template=FEATURE-REQUEST.yml&title=%5BFeature%5D%3A+
 [discussions]: https://github.com/Stooa/Stooa/discussions
@@ -59,3 +61,4 @@ Localization Bugs: Stooa use Weblate to manage the i18n files so don’t submit 
 [how_to_pr]: https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
 [weblate]: https://hosted.weblate.org/projects/stooa/
 [translation]: docs/contributing/translations.md
+[dco_license]: https://github.com/Stooa/Documentation/blob/main/DCOLICENSE

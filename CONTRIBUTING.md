@@ -8,6 +8,7 @@ Stooa is the Open Source unconference project, and we are really happy to reciev
 * [Bug Fixing](CONTRIBUTING.md#bug-fixing)
 * [New features](CONTRIBUTING.md#new-features)
 * [Third party integrations](CONTRIBUTING.md#third-party)
+* [Translations](CONTRIBUTING.md#translations)
 
 ### [Bug Report](CONTRIBUTING.md#bug-report)
 
@@ -36,10 +37,18 @@ To ask for new features, you will have to open a new issue using the [New Featur
 
 To create a third party integration, open a [new issue on Github][issues] and team will contact you ASAP.
 
-[issues]: https://github.com/Runroom/Stooa/issues
+### [Translations](CONTRIBUTING.md#translations)
+
+We are eager to get your help translating Stooa. You just need to access our team of translators with the link below, set up an account in Weblate and start contributing. Join us to make sure your language is covered! [Help Stooa to translate content][weblate]. Please, see our detailed [translation guide][translation] for more information about how to collaborate through Weblate translation platform.
+
+Localization Bugs: Stooa use Weblate to manage the i18n files so don’t submit a pull request to those files. To fix a translation, just access our team of translators, set up an account in the [Stooa Weblate project][weblate] and start contributing. You also might want to take a look at the guide for [Translating using Weblate](https://docs.weblate.org/en/latest/user/translating.html).
+
+[issues]: https://github.com/Stooa/Stooa/issues
 [issue_bug]: https://github.com/Stooa/Stooa/issues/new?assignees=&labels=bug%2Ctriage&template=BUG-REPORT.yml&title=%5BBug%5D%3A+
 [issue_feature]: https://github.com/Stooa/Stooa/issues/new?assignees=&labels=feature-request&template=FEATURE-REQUEST.yml&title=%5BFeature%5D%3A+
 [discussions]: https://github.com/Stooa/Stooa/discussions
 [documentation]: https://github.com/Stooa/Documentation
 [how_to_fork]: https://help.github.com/articles/fork-a-repo/
 [how_to_pr]: https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+[weblate]: https://hosted.weblate.org/projects/stooa/
+[translation]: docs/contributing/translations.md

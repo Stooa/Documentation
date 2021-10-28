@@ -51,4 +51,4 @@ Localization Bugs: Stooa use Weblate to manage the i18n files so don’t submit 
 [how_to_fork]: https://help.github.com/articles/fork-a-repo/
 [how_to_pr]: https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
 [weblate]: https://hosted.weblate.org/projects/stooa/
-[translation]: ./contributing/translations.md
+[translation]: ./docs/contributing/translations.md

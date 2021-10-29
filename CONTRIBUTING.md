@@ -16,7 +16,7 @@ If it is **the first time** you contribute to Stooa you will be asked to sign th
 
 ### [Bug Report](CONTRIBUTING.md#bug-report)
 
-We use [Github issues][issues] to report new bugs either internals or externals, this way we ensure the issues having a linked Pull Requests and visibility near the code. Before filing a new task, try to make sure your problem doesn't already exist.
+We use [Github issues][issues] to report new bugs either internals or externals, this way we ensure the issues having a linked Pull Requests and visibility near the code. Before filling a new task, try to make sure your problem doesn't already exist.
 
 If you found a bug, please report it using the [Bug Report template][issue_bug] and answer the questions in it, as far as possible including:
 

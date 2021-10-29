@@ -8,7 +8,7 @@ If it is **the first time** you contribute to Stooa you will be asked to sign th
 
 ## Pull requests ##
 
-If you want to contribute to the project you have firstly carefully read the [**DCO**](CONTRIBUTING.md#DCO-license) section, use the Pull Request system and format your commits accordingly.
+If you want to contribute to the project you have to firstly carefully read the [**DCO**](CONTRIBUTING.md#DCO-license) section, use the Pull Request system and format your commits accordingly.
 
 If you intend to fix a bug it's fine to submit a pull request right away but we still recommend to file an [issue](issue_bug) detailing what you're fixing. This is helpful in case we don't accept that specific fix but want to keep track of the issue.
 

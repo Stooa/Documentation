@@ -6,12 +6,20 @@ To contribute you should fork the project, make your changes locally and then cr
 
 If it is **the first time** you contribute to Stooa you will be asked to sign the [DCO License](CONTRIBUTING.md#dco-license), which is basically that you ensure that code is yours, that you are aware of the license we are using, etc...
 
+## Pull requests ##
+
+If you want to contribute to the project you have firstly carefully read the [**DCO**](CONTRIBUTING.md#DCO-license) section, use the Pull Request system and format your commits accordingly.
+
+If you intend to fix a bug it's fine to submit a pull request right away but we still recommend to file an [issue](issue_bug) detailing what you're fixing. This is helpful in case we don't accept that specific fix but want to keep track of the issue.
+
+If you want to implement or start working in a new feature, please open a **question** / **discussion** issue for it. No pull-request will be accepted without previous chat about the changes, independently if it is a new feature, already planned feature or small quick win.
+
 ## Available contributions
 
 * [Bug Report](CONTRIBUTING.md#bug-report)
 * [Bug Fixing](CONTRIBUTING.md#bug-fixing)
 * [New features](CONTRIBUTING.md#new-features)
-* [Third party integrations](CONTRIBUTING.md#third-party)
+* [Third party integration](CONTRIBUTING.md#third-party)
 * [Translations](CONTRIBUTING.md#translations)
 
 ### [Bug Report](CONTRIBUTING.md#bug-report)
@@ -37,7 +45,7 @@ To fix them just [fork][how_to_fork] this project and create a [Pull Request][ho
 
 To ask for new features, you will have to open a new issue using the [New Feature template][issue_feature] and answer the questions in it.
 
-### [Third party Integrations](CONTRIBUTING.md#third-party)
+### [Third party integration](CONTRIBUTING.md#third-party)
 
 To create a third party integration, open a [new issue on Github][issues] and team will contact you ASAP.
 
@@ -47,7 +55,7 @@ We are eager to get your help translating Stooa. You just need to access our tea
 
 Localization Bugs: Stooa use Weblate to manage the i18n files so don’t submit a pull request to those files. To fix a translation, just access our team of translators, set up an account in the [Stooa Weblate project][weblate] and start contributing. You also might want to take a look at the guide for [Translating using Weblate](https://docs.weblate.org/en/latest/user/translating.html).
 
-## [DCO License](CONTRIBUTING.md#new-features)
+## [DCO License](CONTRIBUTING.md#DCO-license)
 
 By submitting code you are agree with the [DCO license](dco_license).
 To sign it you will only have to reply to your own PR to our lovely bot that you accept the License. Cool and lovely bots 🤖 .

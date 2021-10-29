@@ -7,7 +7,7 @@
 * [Development][development]
   * [Setup development environment][setup]
   * [Structure][structure]
-  * [How to update Jitsi Meet Library?][structure]
+  * [How to update Jitsi Meet Library?][update-jitsi]
 
 [home]: README.md
 [conduct]: CODE_OF_CONDUCT.md

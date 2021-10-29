@@ -1,6 +1,6 @@
 # How to contribute
 
-Stooa is the Open Source unconference project, and we are really happy to recieve contributions 🎉. There are many different ways to contribute to Stooa’s development, just find the one that best fits with your skills or concerns.
+Stooa is the Open Source unconference project, and we are really happy to recieve contributions 🎉. There are many different ways to contribute to Stooa’s development, just find the one that best fits with your skills or concerns, not all of them require coding skills or opening pull requests.
 
 To contribute you should fork the project, make your changes locally and then creating a pull request. If you don't know how to do this process properly don't worry, check this quick tutorials about [forking](how_to_fork) and [pull requests](how_to_pr). (Everyone has been there at some point 😊 )
 

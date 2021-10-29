@@ -12,8 +12,7 @@ Here you can find all the information about how [Stooa code is structured][struc
 
 ## How to update Jitsi Meet Library manually ?
 
-Here you can find all the information about how you to [update Jitsi Meet Library][update].
-
+Here you can find all the information about how to [update Jitsi Meet Library][update].
 
 ## License
 

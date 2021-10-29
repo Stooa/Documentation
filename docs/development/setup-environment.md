@@ -1,4 +1,4 @@
-# Setup development environment
+# Setup and run development environment
 
 ## Requirements
 

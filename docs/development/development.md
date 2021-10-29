@@ -2,9 +2,9 @@
 
 This section details everything you need to know to get [Stooa][stooa] up and running in development environments.
 
-## Setup development environment
+## Setup and run development environment
 
-Here you can find all the documentation about how to [setup development environment][setup] properly.
+Here you can find all the documentation about how to [setup and run development environment][setup] properly.
 
 ## Structure of the project
 

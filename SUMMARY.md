@@ -5,7 +5,7 @@
 * [How to contribute][contribute]
   * [Translations][translations]
 * [Development][development]
-  * [Setup development environment][setup]
+  * [Setup and run development environment][setup]
   * [Structure][structure]
   * [How to update Jitsi Meet Library?][update-jitsi]
 

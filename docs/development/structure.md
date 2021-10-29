@@ -23,9 +23,9 @@ If you change `frontend` code, there are several checks that the code need to pa
 * `next build`
 * `jest tests`
 
-[symfony]: (https://github.com/symfony/symfony)
-[api-platform]: (https://github.com/api-platform/api-platform)
-[sonata]: (https://github.com/sonata-project/SonataAdminBundle)
-[react]: (https://github.com/facebook/react)
-[next]: (https://github.com/vercel/next.js)
-[apollo]: (https://github.com/apollographql)
+[symfony]: https://github.com/symfony/symfony
+[api-platform]: https://github.com/api-platform/api-platform
+[sonata]: https://github.com/sonata-project/SonataAdminBundle
+[react]: https://github.com/facebook/react
+[next]: https://github.com/vercel/next.js
+[apollo]: https://github.com/apollographql

@@ -1,6 +1,6 @@
 # Development
 
-This section details everything you need to know to get Stooa up and running in development environments.
+This section details everything you need to know to get [Stooa][stooa] up and running in development environments.
 
 ## Setup development environment
 
@@ -14,14 +14,15 @@ Here you can find all the information about how [Stooa code is structured][struc
 
 Here you can find all the information about how you to [update Jitsi Meet Library][update].
 
+
 ## License
 
-Every code accepted in the Stooa codebase is accepted under the MPL-2 license. It is important that you do not include any code which cannot be licensed under MPL-2.
+Every code patch accepted in Stooa codebase is licensed under [MPL 2.0][license]. You must be careful to not include any code that can not be licensed under this license.
 
-You can see the complete `LICENSE` in this [file][dco_licese].
-
+Please [read carefully our license][license] and ask us if you have any questions as well as the [Contribution policy][contribute].
 [setup]:setup-environment.md
 [structure]:structure.md
 [update]:update-jitsi-lib.md
-[dco_license]: (https://github.com/Stooa/Documentation/blob/main/DCOLICENSE)
-[stooa]: (https://github.com/Stooa/Stooa)
+[license]: https://github.com/Stooa/Documentation/blob/main/DCOLICENSE
+[contribute]: https://github.com/Stooa/Documentation/blob/main/CONTRIBUTING
+[stooa]: https://github.com/Stooa/Stooa

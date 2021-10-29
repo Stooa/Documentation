@@ -17,7 +17,7 @@ Here you can find all the information about how you to [update Jitsi Meet Librar
 
 ## License
 
-Every code patch accepted in Stooa codebase is licensed under [MPL 2.0][license]. You must be careful to not include any code that can not be licensed under this license.
+Every code patch accepted in [Stooa][stooa] codebase is licensed under [MPL 2.0][license]. You must be careful to not include any code that can not be licensed under this license.
 
 Please [read carefully our license][license] and ask us if you have any questions as well as the [Contribution policy][contribute].
 

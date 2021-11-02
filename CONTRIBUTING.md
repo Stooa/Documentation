@@ -86,7 +86,6 @@ By submitting code you are agree with the [DCO license](dco_license).
         personal information I submit with it, including my sign-off) is
         maintained indefinitely and may be redistributed consistent with
         this project or the open source license(s) involved.
-
   ```
 
 To sign it you will only have to reply to your own PR to our lovely bot that you accept the License. Cool and lovely bots 🤖 .

@@ -2,13 +2,13 @@
 
 Stooa is the Open Source unconference project, and we are really happy to recieve contributions 🎉. There are many different ways to contribute to Stooa’s development, just find the one that best fits with your skills or concerns, not all of them require coding skills or opening pull requests.
 
-### Contribute to the codebase 
+## Contribute to the codebase 
 
 To contribute to Stooa's codebase you should fork the project, make your changes locally and then creating a pull request. If you don't know how to do this process properly don't worry, check this quick tutorials about [forking](how_to_fork) and [pull requests](how_to_pr). (Everyone has been there at some point 😊 )
 
 If it is **the first time** you contribute to Stooa's codebase you will be asked to sign the [DCO License](CONTRIBUTING.md#dco-license), which is basically that you ensure that code is yours, that you are aware of the license we are using, etc...
 
-## Pull requests ##
+### Pull requests 
 
 To contribute to the project you have to firstly carefully read the [**DCO**](CONTRIBUTING.md#DCO-license) section, use the Pull Request system and format your commits accordingly.
 

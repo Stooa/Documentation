@@ -14,7 +14,7 @@ To contribute to the project you have to firstly carefully read the [**DCO**](CO
 
 If you intend to [fix a bug](CONTRIBUTING.md#bug-fixing) it's fine to submit a **pull request** right away but we still recommend to file an [issue](issue_bug) detailing what you're fixing. This is helpful in case we don't accept that specific fix but want to keep track of the issue.
 
-Please, when creating a new **pull request** read our template carefully and don't delete it, it will guide you to do it properly and fill all the information contributors and core team will need.
+Please, when creating a new **pull request** read our template carefully and don't delete it (Said template will appear when you start a pull request). It will guide you to do it properly and fill all the information contributors and core team will need.
 
 If you want to implement or start working in a **new feature**, please open a **question** / **discussion** issue for it. No **pull request** will be accepted without previous chat about the changes, independently if it is a new feature, already planned feature or small quick win.
 

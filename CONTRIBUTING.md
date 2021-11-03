@@ -10,11 +10,13 @@ If it is **the first time** you contribute to Stooa's codebase you will be asked
 
 ### Pull requests 
 
-To contribute to the project you have to firstly carefully read the [**DCO**](CONTRIBUTING.md#DCO-license) section, use the Pull Request system and format your commits accordingly.
+To contribute to the project you have to firstly carefully read the [**DCO**](CONTRIBUTING.md#DCO-license) section, use the pull request system and format your commits accordingly.
 
-If you intend to [fix a bug](CONTRIBUTING.md#bug-fixing) it's fine to submit a pull request right away but we still recommend to file an [issue](issue_bug) detailing what you're fixing. This is helpful in case we don't accept that specific fix but want to keep track of the issue.
+If you intend to [fix a bug](CONTRIBUTING.md#bug-fixing) it's fine to submit a **pull request** right away but we still recommend to file an [issue](issue_bug) detailing what you're fixing. This is helpful in case we don't accept that specific fix but want to keep track of the issue.
 
-If you want to implement or start working in a new feature, please open a **question** / **discussion** issue for it. No pull-request will be accepted without previous chat about the changes, independently if it is a new feature, already planned feature or small quick win.
+Please, when creating a new **pull request** read our template carefully and don't delete it, it will guide you to do it properly and fill all the information contributors and core team will need.
+
+If you want to implement or start working in a **new feature**, please open a **question** / **discussion** issue for it. No **pull request** will be accepted without previous chat about the changes, independently if it is a new feature, already planned feature or small quick win.
 
 ## Available contributions
 

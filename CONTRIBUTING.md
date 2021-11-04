@@ -4,7 +4,7 @@ Stooa is the Open Source unconference project, and we are really happy to reciev
 
 ## Contribute to the codebase 
 
-To contribute to Stooa's codebase you should fork the project, make your changes locally and then creating a pull request. If you don't know how to do this process properly don't worry, check this quick tutorials about [forking](how_to_fork) and [pull requests](how_to_pr). (Everyone has been there at some point 😊 )
+To contribute to Stooa's codebase you should fork the project, make your changes locally and then creating a pull request. If you don't know how to do this process properly don't worry, check this quick tutorials about [forking][how_to_fork] and [pull requests][how_to_pr]. (Everyone has been there at some point 😊 )
 
 If it is **the first time** you contribute to Stooa's codebase you will be asked to sign the [DCO License](CONTRIBUTING.md#dco-license), which is basically that you ensure that code is yours, that you are aware of the license we are using, etc...
 
@@ -12,7 +12,7 @@ If it is **the first time** you contribute to Stooa's codebase you will be asked
 
 To contribute to the project you have to firstly carefully read the [**DCO**](CONTRIBUTING.md#DCO-license) section, use the pull request system and format your commits accordingly.
 
-If you intend to [fix a bug](CONTRIBUTING.md#bug-fixing) it's fine to submit a **pull request** right away but we still recommend to file an [issue](issue_bug) detailing what you're fixing. This is helpful in case we don't accept that specific fix but want to keep track of the issue.
+If you intend to [fix a bug](CONTRIBUTING.md#bug-fixing) it's fine to submit a pull request right away but we still recommend to file an [issue][issue_bug] detailing what you're fixing. This is helpful in case we don't accept that specific fix but want to keep track of the issue.
 
 Please, when creating a new **pull request** read our template carefully and don't delete it (it will appear when you start a pull request). This will help you to provide all the information needed to understand your contribution, not only to the core team, but also for other contributors.
 
@@ -61,7 +61,7 @@ Localization Bugs: Stooa use Weblate to manage the i18n files so don’t submit 
 
 ## [DCO License](CONTRIBUTING.md#DCO-license)
 
-By submitting code you are agree with the [DCO license](dco_license).
+By submitting code you are agree with the [DCO license][dco_license].
 ```
     Developer's Certificate of Origin 1.1
 

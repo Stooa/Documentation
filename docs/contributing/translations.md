@@ -59,6 +59,10 @@ To edit an already approved translation string follow the next steps:
 
 ![Weblate Browse translations](../assets/img/translations/weblate-browse-translations.png)
 
-Saved editions will get the status "Waiting for review". Suggestions will get the status "Approved strings with suggestions". Our team will periodically check strings waiting for review and, if considered correct, will approve them.
+When collaborating with translations, Weblate will automatically create a Pull Request in the project repository with all translations added.
+
+In the case of adding a new language, we will require a minimum of 80% of the translations between all project components for the Pull Request to be approved. Within this minimum, keep in mind that we will also require a 100% translation in the "Frontend - App" and "Frontend - Common" components.
+
+Also keep in mind that the creation of a new language requires the action of the developers to integrate it into the app. A Pull Request for this development is also welcome :)
 
 [weblate]: https://hosted.weblate.org/projects/stooa/

@@ -8,6 +8,8 @@ We are using [Weblate as translation platform][weblate], so the first thing you 
 
 You also might want to take a look at the guide for [Translating using Weblate](https://docs.weblate.org/en/latest/user/translating.html).
 
+When collaborating with translations, Weblate will automatically create a Pull Request in the project repository with all the translations added.
+
 ## Add a new language
 
 To add a language that is still not among the Stooa language options:
@@ -41,8 +43,6 @@ To add a new translation (a string with a lacking translation for a certain lang
 
 ![Weblate Edit translation](../assets/img/translations/weblate-edit-translation.png)
 
-Saved new translations will automatically get the status "waiting for review". Our team will periodically check strings waiting for review and, if considered correct, will approve them.
-
 ## Change an approved translation
 
 To edit an already approved translation string follow the next steps:
@@ -59,6 +59,13 @@ To edit an already approved translation string follow the next steps:
 
 ![Weblate Browse translations](../assets/img/translations/weblate-browse-translations.png)
 
-Saved editions will get the status "Waiting for review". Suggestions will get the status "Approved strings with suggestions". Our team will periodically check strings waiting for review and, if considered correct, will approve them.
+## New Language Request
+
+In the case of adding a new language, a minimum of 80% of the translations of the entire project components is necessary for the Pull Request to be approved. Furthermore, keep in mind that we will also require the 100% of the translation in the "Frontend - App" and "Frontend - Common" components.
+
+Please consider that the creation of a new language requires the action of developers to integrate it into the app. A Pull Request for this development is also needed so that you can make it yourself, and it will be very welcome! :)
+
+If you are not a developer, you can [start a new discussion][new_discussion] inside the "Help wanted" category to ask the developer community for help
 
 [weblate]: https://hosted.weblate.org/projects/stooa/
+[new_discussion]: https://github.com/Stooa/Stooa/discussions/new

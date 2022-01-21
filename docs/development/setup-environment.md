@@ -9,6 +9,7 @@ To run this project, you need to have:
 - [Yarn](https://yarnpkg.com/)
 - [Mkcert](https://github.com/FiloSottile/mkcert)
 - [Docker](https://www.docker.com/)
+- [Docker compose](https://docs.docker.com/compose/cli-command/)
 
 ## How to run this project?
 

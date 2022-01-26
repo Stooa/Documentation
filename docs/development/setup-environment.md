@@ -6,7 +6,7 @@ To run this project, you need to have:
 
 - [Git](https://git-scm.com/)
 - [Nvm](https://github.com/nvm-sh/nvm)
-- [Yarn](https://yarnpkg.com/)
+- [NPM](https://www.npmjs.com/)
 - [Mkcert](https://github.com/FiloSottile/mkcert)
 - [Docker](https://www.docker.com/)
 - [Docker compose](https://docs.docker.com/compose/cli-command/)

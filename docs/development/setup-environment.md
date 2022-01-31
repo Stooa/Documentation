@@ -25,7 +25,7 @@ There are other commands to control the Docker containers, you can find them on 
 
 In case of mysql error table/view doesn't exist, run `make provision`.
 
-## Access
+### Access
 
 There are several endpoints configured for Stooa:
 
@@ -34,3 +34,30 @@ There are several endpoints configured for Stooa:
 * https://localhost:8443/docs (Access to the docs)
 * https://localhost:8443/admin (Access to the backoffice)
 * http://localhost:8025 (Access to Mailhog)
+
+## Running frontend outside Docker
+
+There are some cases where Docker does no perform good enough (mostly when using Docker for Mac / Windows).
+For those cases you can run the frontend outside Docker. We recommend using Nvm, since it will allow you
+to use the same Node version as if it was running with Docker.
+
+There are some steps you need to run:
+
+```
+cd frontend
+
+# This one might prompt you to install the required
+# Node version if you don't have it already
+nvm use
+
+npm clean-install
+
+npm dev
+```
+
+### Access
+
+All the other accesses remain the same (even the frontend running inside Docker), but the frontend will 
+also be accesible through:
+
+* http://localhost:3000

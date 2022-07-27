@@ -8,9 +8,13 @@ In order to update them, you just need to:
 
 1. Delete the interfaces you want to update
 2. Execute in local environment
+3. Lint the files
 
 ```
-NODE_TLS_REJECT_UNAUTHORIZED=0 npx @api-platform/client-generator --generator typescript https://localhost:8443 frontend/types/api-platform
+cd frontend
+rm -rf src/types/api-platform
+NODE_TLS_REJECT_UNAUTHORIZED=0 npx @api-platform/client-generator --generator typescript https://localhost:8443 src/types/api-platform
+npx eslint src/types/api-platform --fix
 ``` 
 
 [api-platform]: https://api-platform.com/

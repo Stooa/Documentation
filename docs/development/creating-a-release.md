@@ -36,6 +36,7 @@ This command will output our updated `CHANGELOG.md`
 ### Create new Release branch
 
 Now create the new branch to push all the changes made to the changelog. This way the team could review that everything is correct to approve it!
+
 Naming convention is release/[number_of_release], so if you are releasing the version 2.8.8 it should be `release/2.8.8`. 
 ### Create Github release
 

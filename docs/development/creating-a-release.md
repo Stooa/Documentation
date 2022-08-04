@@ -45,6 +45,6 @@ With the approved branch, we head to [github releases](https://github.com/Stooa/
 The content of the release will be the last changes in the `CHANGELOG.md`
 
 ### Release 🎉
-You can save a draft to further revision or just release it!
+After filling all the data just hit Publish release!
 
 Well done, you've made a Stooa release 😄

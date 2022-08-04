@@ -40,7 +40,7 @@ Now create the new branch to push all the changes made to the changelog. This wa
 Naming convention is `release/[number_of_release]`, so if you are releasing the version 2.8.8 it should be `release/2.8.8`. 
 ### Create Github release
 
-With the approved branch, we head to [github releases](https://github.com/Stooa/Stooa/releases) to create a new one with the same number in the tag release we previously used in the `package.json`. 
+Once the PR is approved and merged, we head to [github releases](https://github.com/Stooa/Stooa/releases) to create a new one with the same number in the tag release we previously used in the `package.json`. 
 
 The content of the release will be the last changes in the `CHANGELOG.md`
 

@@ -28,7 +28,7 @@ And make sure you use the Stooa repo, not your fork.
 Then, once we know the remote name, we get all the PRs since last release and update the `changelog.md` in the project just running
 
 ```batch
-npx auto-changelog --remote=[name_of_your_remote]
+npx auto-changelog -p --remote=[name_of_your_remote]
 ```
 
 This command will output our updated `CHANGELOG.md`

@@ -33,6 +33,7 @@ After the initial `make up`, you can run:
 make up-debug
 ```
 
+To disable it again, just run `make up`.
 
 ### Access
 

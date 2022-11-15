@@ -1,34 +1,24 @@
 # How to update Jitsi Meet Library manually ?
 
-## Why manually?
+## Project's package.json
 
 We are using the official javascript jitsi meet library:
 
 `https://github.com/jitsi/lib-jitsi-meet`
 
-At the moment, the library is not uploaded to NPM packages. That's why we need to update the library manually.
-This process will change once the official library is uploaded to NPM.
+To use the library as a package we need to refer it to the release gzip, as they do in their jitsi-meet react application
 
-## How do we update the library manually?
+## How do we update the library?
 
-Replacing the minified files locate at `fronted/public/vendor/` with the file names `lib-jitsi-meet.*`
+Replacing the link in the [package.json](https://github.com/Stooa/Stooa/blob/main/frontend/package.json) of the stooa's `frontend` app.
 
-## Example
+We use as reference the version used in [jitsi-meet](https://github.com/jitsi/jitsi-meet) which is the most stable version and used on their production web app.
 
-To copy a specific version of the minified library, we will dot it from a Docker Jitsi Meet official image.
+**Where to get the link?** You can copy it from the [jitsi-meet](https://github.com/jitsi/jitsi-meet/blob/master/package.json) `package.json` or head to [lib-jitsi-meet repo releases](https://github.com/jitsi/lib-jitsi-meet/releases) and copy the .tgz link from the "Assets" in the release.
 
-First, selecting a certain release in, for example `stable-6433`
-`
-https://github.com/jitsi/docker-jitsi-meet/releases
-`
+Link should look like this:\
+https://github.com/jitsi/lib-jitsi-meet/releases/download/v1535.0.0%2Be6263e7c/lib-jitsi-meet.tgz
 
-After that, we will create a temporary docker image to copy the minified file to our project:
-
+```json
+"lib-jitsi-meet": "https://github.com/jitsi/lib-jitsi-meet/releases/download/v1529.0.0%2B669dbcbb/lib-jitsi-meet.tgz",
 ```
-docker run --name temp-container-name jitsi/web:stable-6433 /bin/true
-docker cp temp-container-name:/usr/share/jitsi-meet/libs/lib-jitsi-meet.min.js frontend/public/vendor/lib-jitsi-meet.min.js
-docker cp temp-container-name:/usr/share/jitsi-meet/libs/lib-jitsi-meet.min.map frontend/public/vendor/lib-jitsi-meet.min.map
-docker rm temp-container-name
-```
-
-NOTE: The first command might give you some errors. However, this will not stop this from working.

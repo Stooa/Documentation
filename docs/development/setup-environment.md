@@ -25,6 +25,16 @@ There are other commands to control the Docker containers, you can find them on 
 
 In case of mysql error table/view doesn't exist, run `make provision`.
 
+## How to enable Xdebug?
+
+After the initial `make up`, you can run:
+
+```
+make up-debug
+```
+
+To disable it again, just run `make up`.
+
 ### Access
 
 There are several endpoints configured for Stooa:

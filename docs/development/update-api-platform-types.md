@@ -13,7 +13,7 @@ In order to update them, you just need to:
 ```
 cd frontend
 rm -rf src/types/api-platform
-NODE_TLS_REJECT_UNAUTHORIZED=0 npx @api-platform/client-generator --generator typescript https://localhost:8443 src/types/api-platform
+NODE_TLS_REJECT_UNAUTHORIZED=0 npm init @api-platform/client https://localhost:8443 src/types/api-platform -- --generator typescript
 npx eslint src/types/api-platform --fix
 ``` 
 
